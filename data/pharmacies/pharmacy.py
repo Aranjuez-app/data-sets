@@ -188,23 +188,17 @@ def update_pharmacies_data_set():
         if len(pharmacies) == 0:
             return
         on_guard_data = _fetch_pharmacies_on_guard()
-        on_guard_calendar = []
+        on_guard_calendar = {};
         for po in on_guard_data:
             found = False
             for p in pharmacies:
                 if po.phone == p.contact.telephone:
-                    on_guard_calendar.append({
-                        "data": po.date,
-                        "pharmacies": [p.id]
-                    })
+                    on_guard_calendar[po.date] = [p.id]
                     found = True
                     break
             if found is False:
                 if po.address in p.address:
-                    on_guard_calendar.append({
-                        "date": po.date,
-                        "pharmacies": [p.id]
-                    })
+                    on_guard_calendar[po.date] = [p.id]
                     found = True
                     break
         if len(on_guard_calendar) > 0:
