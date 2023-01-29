@@ -1,0 +1,199 @@
+[
+   {
+      "id":"pharmacy_san_antonio_86",
+      "name":"Farmacia Aranjuez",
+      "address":"Calle de San Antonio 86",
+      "contact":{
+         "telephone":"+34918910518",
+         "webSite":"https://goo.gl/maps/qVm1zwd5eeebXGCW6"
+      },
+      "location":{
+         "latitude":40.0331796,
+         "longitude":-3.6027489
+      }
+   },
+   {
+      "id":"pharmacy_real_25",
+      "name":"Farmalife",
+      "address":"Calle del Real 25",
+      "contact":{
+         "telephone":"+34918910862",
+         "webSite":"https://farmalife.es/farmacia-aranjuez/",
+         "email":"aranjuez@farmalife.es"
+      },
+      "location":{
+         "latitude":40.0343189,
+         "longitude":-3.6019743
+      }
+   },
+   {
+      "id":"pharmacy_foso_19",
+      "name":"Farmacia Aranajuez",
+      "address":"Calle del Foso 19",
+      "contact":{
+         "telephone":"+34918910813",
+         "webSite":"https://www.farmaciaaranjuez.es/"
+      },
+      "location":{
+         "latitude":40.0328565,
+         "longitude":-3.5999907
+      }
+   },
+   {
+      "id":"pharmacy_abastos_188",
+      "name":"Farmacia Aranajuez",
+      "address":"Calle de Abastos 188",
+      "contact":{
+         "telephone":"+34918912659",
+         "webSite":"https://www.farmaciaaranjuez.es/"
+      },
+      "location":{
+         "latitude":40.030948,
+         "longitude":-3.596618
+      }
+   },
+   {
+      "id":"pharmacy_moreras_111",
+      "name":"Farmacia Paloma Escobar Jerez",
+      "address":"Calle Moreras 111",
+      "contact":{
+         "telephone":"+34918912598",
+         "webSite":"https://goo.gl/maps/iR1iagL4epyGoAzU7"
+      },
+      "location":{
+         "latitude":40.0353937,
+         "longitude":-3.5953009
+      }
+   },
+   {
+      "id":"pharmacy_principe_de_la_paz_24",
+      "name":"Farmacia La Botica del Palacio",
+      "address":"Calle del Principe de la Paz 24",
+      "contact":{
+         "telephone":"+34918911436",
+         "webSite":"https://goo.gl/maps/cGfH62VDocPyazaA9"
+      },
+      "location":{
+         "latitude":40.0315201,
+         "longitude":-3.6080541
+      }
+   },
+   {
+      "id":"pharmacy_plaza_de_toros_63",
+      "name":"Farmacia Castelló",
+      "address":"Avenida Plaza de Toros 63",
+      "contact":{
+         "telephone":"+34918911485",
+         "webSite":"https://goo.gl/maps/8pnZSAdLqYxgn43P9"
+      },
+      "location":{
+         "latitude":40.0279418,
+         "longitude":-3.6006293
+      }
+   },
+   {
+      "id":"pharmacy_gobernador_87",
+      "name":"Farmacia Mustieles Moreno Ramón Luis",
+      "address":"Calle Gobernador 87",
+      "contact":{
+         "telephone":"+34918910162",
+         "webSite":"https://www.farmaciamustieles.com/"
+      },
+      "location":{
+         "latitude":40.0324865,
+         "longitude":-3.6054253
+      }
+   },
+   {
+      "id":"pharmacy_moreras_2",
+      "name":"Farmacia Alpajés",
+      "address":"Calle de las Moreras 2",
+      "contact":{
+         "telephone":"+34918916470",
+         "webSite":"https://goo.gl/maps/mF6VTjigvLHotxJ87"
+      },
+      "location":{
+         "latitude":40.0354784,
+         "longitude":-3.6019044
+      }
+   },
+   {
+      "id":"pharmacy_loyola_9",
+      "name":"Farmacia Pacheco Cuesta Eva María",
+      "address":"Avenida de Loyola 9",
+      "contact":{
+         "telephone":"+34918918489",
+         "webSite":"https://goo.gl/maps/VKud563vP4n4EPv18"
+      },
+      "location":{
+         "latitude":40.0279428,
+         "longitude":-3.6180512
+      }
+   },
+   {
+      "id":"pharmacy_hipermercado_e_leclerc",
+      "name":"Farmacia Echavarri (E. Leclerc)",
+      "address":"Paseo del Deleite 11",
+      "contact":{
+         "telephone":"+34918924920",
+         "webSite":"https://www.farmaciaechavarri.es/"
+      },
+      "location":{
+         "latitude":40.0242501,
+         "longitude":-3.6200311
+      }
+   },
+   {
+      "id":"pharmacy_abastos_98",
+      "name":"Farmacia Abastos",
+      "address":"Calle de Abastos 98 esq c/Concha",
+      "contact":{
+         "telephone":"+34918011925",
+         "webSite":"https://goo.gl/maps/b3bm1qUVrCbeqJmx8"
+      },
+      "location":{
+         "latitude":40.031757,
+         "longitude":-3.6011391
+      }
+   },
+   {
+      "id":"pharmacy_stuart_78",
+      "name":"Farmacia Susana Gomez González",
+      "address":"Calle de Stuart 78",
+      "contact":{
+         "telephone":"+34918910161",
+         "webSite":"https://goo.gl/maps/GyQ7LWgF3SE83zUQ6"
+      },
+      "location":{
+         "latitude":40.0331772,
+         "longitude":-3.6058859
+      }
+   },
+   {
+      "id":"pharmacy_carretera_andalucia_89",
+      "name":"Farmacia Andalucía",
+      "address":"Calle Carretera de Andalucía 89",
+      "contact":{
+         "telephone":"+34918910911",
+         "webSite":"https://farmaciaenaranjuez.es",
+         "email":"info@farmaciaenaranjuez.es"
+      },
+      "location":{
+         "latitude":40.0289796,
+         "longitude":-3.6056188
+      }
+   },
+   {
+      "id":"pharmacy_gobernador_79",
+      "name":"Farmacia Toro Y Román José Luis",
+      "address":"Calle Gobernador 79",
+      "contact":{
+         "telephone":"+34918910119",
+         "webSite":"https://goo.gl/maps/Nx89xoT22e1RFW8a6"
+      },
+      "location":{
+         "latitude":40.0325221,
+         "longitude":-3.605751
+      }
+   }
+]
