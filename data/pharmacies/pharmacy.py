@@ -173,10 +173,10 @@ def _fetch_pharmacies_on_guard():
                                                                                                                   '').strip()
                             pharmacy_tel = "+34" + pharmacy_tel
                             pharmacies.append(
-                                _OnGuardPharmacy(guard_day, pharmacy_street.encode("utf-8"), pharmacy_tel))
+                                _OnGuardPharmacy(guard_day, pharmacy_street, pharmacy_tel))
                             break
                         else:
-                            pharmacies.append(_OnGuardPharmacy(guard_day, pharmacy_street.encode("utf-8"), None))
+                            pharmacies.append(_OnGuardPharmacy(guard_day, pharmacy_street, None))
                             break
             is_processing_month = False
     return pharmacies
