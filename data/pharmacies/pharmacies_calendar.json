@@ -6,11 +6,41 @@
         "02/05/2023": [
             "pharmacy_moreras_111"
         ], 
+        "03/05/2023": [
+            "pharmacy_san_antonio_86"
+        ], 
+        "04/05/2023": [
+            "pharmacy_real_25"
+        ], 
+        "05/05/2023": [
+            "pharmacy_real_25"
+        ], 
+        "06/05/2023": [
+            "pharmacy_hipermercado_e_leclerc"
+        ], 
+        "07/05/2023": [
+            "pharmacy_principe_de_la_paz_24"
+        ], 
         "08/05/2023": [
             "pharmacy_foso_19"
         ], 
         "09/05/2023": [
             "pharmacy_abastos_188"
+        ], 
+        "10/05/2023": [
+            "pharmacy_moreras_111"
+        ], 
+        "11/05/2023": [
+            "pharmacy_principe_de_la_paz_24"
+        ], 
+        "12/05/2023": [
+            "pharmacy_moreras_2"
+        ], 
+        "13/05/2023": [
+            "pharmacy_gobernador_87"
+        ], 
+        "14/05/2023": [
+            "pharmacy_plaza_de_toros_63"
         ], 
         "15/05/2023": [
             "pharmacy_loyola_9"
@@ -18,19 +48,52 @@
         "16/05/2023": [
             "pharmacy_hipermercado_e_leclerc"
         ], 
+        "17/05/2023": [
+            "pharmacy_plaza_de_toros_63"
+        ], 
         "18/05/2023": [
             "pharmacy_abastos_98"
+        ], 
+        "19/05/2023": [
+            "pharmacy_gobernador_79"
+        ], 
+        "20/05/2023": [
+            "pharmacy_stuart_78"
+        ], 
+        "21/05/2023": [
+            "pharmacy_moreras_2"
+        ], 
+        "22/05/2023": [
+            "pharmacy_stuart_78"
+        ], 
+        "23/05/2023": [
+            "pharmacy_carretera_andalucia_89"
+        ], 
+        "24/05/2023": [
+            "pharmacy_gobernador_87"
         ], 
         "25/05/2023": [
             "pharmacy_san_antonio_86"
         ], 
+        "26/05/2023": [
+            "pharmacy_real_25"
+        ], 
+        "27/05/2023": [
+            "pharmacy_gobernador_79"
+        ], 
         "28/05/2023": [
             "pharmacy_loyola_9"
         ], 
+        "29/05/2023": [
+            "pharmacy_real_25"
+        ], 
         "30/05/2023": [
             "pharmacy_hipermercado_e_leclerc"
+        ], 
+        "31/05/2023": [
+            "pharmacy_foso_19"
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1685346824.8585038
+    "updated": 1685371827.15951
 }

@@ -6,6 +6,7 @@ from datetime import datetime as dt
 from json import JSONDecoder
 from json import JSONEncoder
 
+import chardet
 import unidecode
 from bs4 import BeautifulSoup
 from requests import get
@@ -150,6 +151,10 @@ def _fetch_pharmacies_on_guard():
                 if len(day) < 2:
                     continue
                 day_name = unidecode.unidecode(day[0].strip().lower())
+                if day_name == 'mia(c)rcoles':
+                    day_name = "miercoles"
+                elif day_name == 'sa!bado':
+                    day_name = "sabado"
                 date = current_month + " " + day[1].strip().lower()  # Viernes, 30
                 pharmacy_data = entry.nextSibling.strip().strip()
                 if pharmacy_data.startswith(":"):
@@ -163,14 +168,20 @@ def _fetch_pharmacies_on_guard():
                         guard_day = possible_date.strftime("%d/%m/%Y")
                         pharmacy_info = pharmacy_data.split("–")
                         pharmacy_street = pharmacy_info[0] \
+                            .replace('Â', '') \
+                            .replace('Ã', 'í') \
                             .replace(u'\xa0', u' ') \
                             .replace('c/', '') \
                             .replace(',', '') \
+                            .replace('avd.', 'Avd.') \
                             .strip()
                         if len(pharmacy_info) > 1 and pharmacy_info[1].strip().startswith("Tel.:"):
-                            pharmacy_tel = _remove_prefix(pharmacy_info[1].strip(), "Tel.:").replace(u'\xa0',
-                                                                                                     u'').replace(' ',
-                                                                                                                  '').strip()
+                            pharmacy_tel = _remove_prefix(pharmacy_info[1].strip(), "Tel.:")\
+                                .replace('Â', '') \
+                                .replace('Ã', '') \
+                                .replace(u'\xa0', '') \
+                                .replace(u'\xa0', u'')\
+                                .replace(' ', '').strip()
                             pharmacy_tel = "+34" + pharmacy_tel
                             pharmacies.append(
                                 _OnGuardPharmacy(guard_day, pharmacy_street, pharmacy_tel))
@@ -188,7 +199,7 @@ def update_pharmacies_data_set():
         if len(pharmacies) == 0:
             return
         on_guard_data = _fetch_pharmacies_on_guard()
-        on_guard_calendar = {};
+        on_guard_calendar = {}
         for po in on_guard_data:
             found = False
             for p in pharmacies:
