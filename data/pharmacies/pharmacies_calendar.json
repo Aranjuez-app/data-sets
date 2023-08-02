@@ -1,99 +1,99 @@
 {
     "calendar": {
-        "01/07/2023": [
-            "pharmacy_real_25"
-        ], 
-        "02/07/2023": [
+        "01/08/2023": [
             "pharmacy_gobernador_87"
         ], 
-        "03/07/2023": [
-            "pharmacy_hipermercado_e_leclerc"
-        ], 
-        "04/07/2023": [
-            "pharmacy_abastos_98"
-        ], 
-        "05/07/2023": [
-            "pharmacy_carretera_andalucia_89"
-        ], 
-        "06/07/2023": [
-            "pharmacy_gobernador_79"
-        ], 
-        "07/07/2023": [
+        "02/08/2023": [
             "pharmacy_san_antonio_86"
         ], 
-        "08/07/2023": [
-            "pharmacy_foso_19"
-        ], 
-        "09/07/2023": [
-            "pharmacy_san_antonio_86"
-        ], 
-        "10/07/2023": [
-            "pharmacy_gobernador_87"
-        ], 
-        "11/07/2023": [
+        "03/08/2023": [
             "pharmacy_real_25"
         ], 
-        "12/07/2023": [
-            "pharmacy_san_antonio_86"
-        ], 
-        "13/07/2023": [
+        "04/08/2023": [
             "pharmacy_real_25"
         ], 
-        "14/07/2023": [
-            "pharmacy_foso_19"
-        ], 
-        "15/07/2023": [
-            "pharmacy_abastos_188"
-        ], 
-        "16/07/2023": [
-            "pharmacy_real_25"
-        ], 
-        "17/07/2023": [
-            "pharmacy_moreras_111"
-        ], 
-        "18/07/2023": [
-            "pharmacy_abastos_188"
-        ], 
-        "19/07/2023": [
-            "pharmacy_principe_de_la_paz_24"
-        ], 
-        "20/07/2023": [
+        "05/08/2023": [
             "pharmacy_plaza_de_toros_63"
         ], 
-        "21/07/2023": [
-            "pharmacy_moreras_2"
+        "06/08/2023": [
+            "pharmacy_abastos_188"
         ], 
-        "22/07/2023": [
-            "pharmacy_moreras_111"
-        ], 
-        "23/07/2023": [
-            "pharmacy_real_25"
-        ], 
-        "24/07/2023": [
-            "pharmacy_loyola_9"
-        ], 
-        "25/07/2023": [
-            "pharmacy_hipermercado_e_leclerc"
-        ], 
-        "26/07/2023": [
-            "pharmacy_abastos_98"
-        ], 
-        "27/07/2023": [
-            "pharmacy_carretera_andalucia_89"
-        ], 
-        "28/07/2023": [
-            "pharmacy_gobernador_79"
-        ], 
-        "29/07/2023": [
-            "pharmacy_principe_de_la_paz_24"
-        ], 
-        "30/07/2023": [
+        "07/08/2023": [
             "pharmacy_foso_19"
         ], 
-        "31/07/2023": [
+        "08/08/2023": [
+            "pharmacy_moreras_111"
+        ], 
+        "09/08/2023": [
+            "pharmacy_abastos_188"
+        ], 
+        "10/08/2023": [
+            "pharmacy_principe_de_la_paz_24"
+        ], 
+        "11/08/2023": [
+            "pharmacy_plaza_de_toros_63"
+        ], 
+        "12/08/2023": [
+            "pharmacy_moreras_2"
+        ], 
+        "13/08/2023": [
+            "pharmacy_moreras_111"
+        ], 
+        "14/08/2023": [
+            "pharmacy_loyola_9"
+        ], 
+        "15/08/2023": [
+            "pharmacy_principe_de_la_paz_24"
+        ], 
+        "16/08/2023": [
+            "pharmacy_moreras_2"
+        ], 
+        "17/08/2023": [
+            "pharmacy_hipermercado_e_leclerc"
+        ], 
+        "18/08/2023": [
+            "pharmacy_abastos_98"
+        ], 
+        "19/08/2023": [
+            "pharmacy_loyola_9"
+        ], 
+        "20/08/2023": [
+            "pharmacy_plaza_de_toros_63"
+        ], 
+        "21/08/2023": [
+            "pharmacy_carretera_andalucia_89"
+        ], 
+        "22/08/2023": [
+            "pharmacy_gobernador_79"
+        ], 
+        "23/08/2023": [
             "pharmacy_stuart_78"
+        ], 
+        "24/08/2023": [
+            "pharmacy_gobernador_87"
+        ], 
+        "25/08/2023": [
+            "pharmacy_stuart_78"
+        ], 
+        "26/08/2023": [
+            "pharmacy_hipermercado_e_leclerc"
+        ], 
+        "27/08/2023": [
+            "pharmacy_moreras_2"
+        ], 
+        "28/08/2023": [
+            "pharmacy_real_25"
+        ], 
+        "29/08/2023": [
+            "pharmacy_real_25"
+        ], 
+        "30/08/2023": [
+            "pharmacy_foso_19"
+        ], 
+        "31/08/2023": [
+            "pharmacy_abastos_188"
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1690873954.7632275
+    "updated": 1690960309.0644484
 }
