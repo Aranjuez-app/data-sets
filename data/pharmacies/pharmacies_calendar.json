@@ -3,6 +3,9 @@
         "01/10/2023": [
             "pharmacy_stuart_78"
         ], 
+        "01/11/2023": [
+            "pharmacy_abastos_188"
+        ], 
         "02/10/2023": [
             "pharmacy_loyola_9"
         ], 
@@ -84,14 +87,8 @@
         "28/10/2023": [
             "pharmacy_real_25"
         ], 
-        "29/09/2023": [
-            "pharmacy_moreras_2"
-        ], 
         "29/10/2023": [
             "pharmacy_foso_19"
-        ], 
-        "30/09/2023": [
-            "pharmacy_san_antonio_86"
         ], 
         "30/10/2023": [
             "pharmacy_carretera_andalucia_89"
@@ -101,5 +98,5 @@
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1696230729.6388445
+    "updated": 1696317104.0744865
 }
