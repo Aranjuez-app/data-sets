@@ -1,99 +1,93 @@
 {
     "calendar": {
-        "01/01/2024": [
-            "pharmacy_san_antonio_86"
-        ], 
-        "02/01/2024": [
-            "pharmacy_moreras_111"
-        ], 
-        "03/01/2024": [
-            "pharmacy_principe_de_la_paz_24"
-        ], 
-        "04/01/2024": [
-            "pharmacy_plaza_de_toros_63"
-        ], 
-        "05/01/2024": [
-            "pharmacy_moreras_2"
-        ], 
-        "06/01/2024": [
-            "pharmacy_stuart_78"
-        ], 
-        "07/01/2024": [
-            "pharmacy_gobernador_87"
-        ], 
-        "08/01/2024": [
-            "pharmacy_loyola_9"
-        ], 
-        "09/01/2024": [
-            "pharmacy_hipermercado_e_leclerc"
-        ], 
-        "10/01/2024": [
+        "01/02/2024": [
             "pharmacy_abastos_98"
         ], 
-        "11/01/2024": [
-            "pharmacy_gobernador_79"
-        ], 
-        "12/01/2024": [
-            "pharmacy_stuart_78"
-        ], 
-        "13/01/2024": [
+        "02/02/2024": [
             "pharmacy_carretera_andalucia_89"
         ], 
-        "14/01/2024": [
+        "03/02/2024": [
             "pharmacy_san_antonio_86"
         ], 
-        "15/01/2024": [
-            "pharmacy_gobernador_87"
-        ], 
-        "16/01/2024": [
-            "pharmacy_carretera_andalucia_89"
-        ], 
-        "17/01/2024": [
-            "pharmacy_san_antonio_86"
-        ], 
-        "18/01/2024": [
-            "pharmacy_real_25"
-        ], 
-        "19/01/2024": [
-            "pharmacy_real_25"
-        ], 
-        "20/01/2024": [
-            "pharmacy_gobernador_79"
-        ], 
-        "21/01/2024": [
-            "pharmacy_real_25"
-        ], 
-        "22/01/2024": [
+        "04/02/2024": [
             "pharmacy_foso_19"
         ], 
-        "23/01/2024": [
-            "pharmacy_abastos_188"
+        "05/02/2024": [
+            "pharmacy_gobernador_79"
         ], 
-        "24/01/2024": [
-            "pharmacy_moreras_111"
+        "06/02/2024": [
+            "pharmacy_stuart_78"
         ], 
-        "25/01/2024": [
-            "pharmacy_principe_de_la_paz_24"
-        ], 
-        "26/01/2024": [
-            "pharmacy_plaza_de_toros_63"
-        ], 
-        "27/01/2024": [
+        "07/02/2024": [
             "pharmacy_gobernador_87"
         ], 
-        "28/01/2024": [
+        "08/02/2024": [
+            "pharmacy_san_antonio_86"
+        ], 
+        "09/02/2024": [
             "pharmacy_real_25"
         ], 
-        "29/01/2024": [
+        "10/02/2024": [
+            "pharmacy_real_25"
+        ], 
+        "11/02/2024": [
+            "pharmacy_abastos_188"
+        ], 
+        "12/02/2024": [
+            "pharmacy_foso_19"
+        ], 
+        "13/02/2024": [
+            "pharmacy_real_25"
+        ], 
+        "14/02/2024": [
+            "pharmacy_abastos_188"
+        ], 
+        "15/02/2024": [
+            "pharmacy_moreras_111"
+        ], 
+        "16/02/2024": [
+            "pharmacy_principe_de_la_paz_24"
+        ], 
+        "17/02/2024": [
+            "pharmacy_real_25"
+        ], 
+        "18/02/2024": [
+            "pharmacy_moreras_111"
+        ], 
+        "19/02/2024": [
+            "pharmacy_plaza_de_toros_63"
+        ], 
+        "20/02/2024": [
             "pharmacy_moreras_2"
         ], 
-        "30/01/2024": [
+        "21/02/2024": [
             "pharmacy_loyola_9"
         ], 
-        "31/01/2024": [
+        "22/02/2024": [
             "pharmacy_hipermercado_e_leclerc"
+        ], 
+        "23/02/2024": [
+            "pharmacy_abastos_98"
+        ], 
+        "24/02/2024": [
+            "pharmacy_foso_19"
+        ], 
+        "25/02/2024": [
+            "pharmacy_principe_de_la_paz_24"
+        ], 
+        "26/02/2024": [
+            "pharmacy_carretera_andalucia_89"
+        ], 
+        "27/02/2024": [
+            "pharmacy_gobernador_79"
+        ], 
+        "28/02/2024": [
+            "pharmacy_stuart_78"
+        ], 
+        "29/02/2024": [
+            "pharmacy_gobernador_87"
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1706771553.6432202
+    "updated": 1706857894.4457886
 }
