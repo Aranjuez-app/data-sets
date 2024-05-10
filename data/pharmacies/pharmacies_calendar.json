@@ -93,14 +93,8 @@
         "28/05/2024": [
             "pharmacy_hipermercado_e_leclerc"
         ], 
-        "29/04/2024": [
-            "pharmacy_plaza_de_toros_63"
-        ], 
         "29/05/2024": [
             "pharmacy_abastos_98"
-        ], 
-        "30/04/2024": [
-            "pharmacy_moreras_2"
         ], 
         "30/05/2024": [
             "pharmacy_moreras_111"
@@ -110,5 +104,5 @@
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1715238881.5084693
+    "updated": 1715325237.8728385
 }
