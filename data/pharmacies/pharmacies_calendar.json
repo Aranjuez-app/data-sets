@@ -1,52 +1,16 @@
 {
     "calendar": {
-        "01/04/2025": [
-            "pharmacy_hipermercado_e_leclerc"
-        ], 
-        "02/04/2025": [
+        "01/05/2025": [
             "pharmacy_carretera_andalucia_89"
         ], 
-        "03/04/2025": [
-            "pharmacy_gobernador_79"
-        ], 
-        "05/04/2025": [
-            "pharmacy_abastos_98"
-        ], 
-        "06/04/2025": [
-            "pharmacy_loyola_9"
-        ], 
-        "07/04/2025": [
-            "pharmacy_gobernador_87"
-        ], 
-        "08/04/2025": [
+        "03/05/2025": [
             "pharmacy_san_antonio_86"
         ], 
-        "09/04/2025": [
-            "pharmacy_real_25"
+        "04/05/2025": [
+            "pharmacy_stuart_78"
         ], 
-        "10/04/2025": [
-            "pharmacy_real_25"
-        ], 
-        "12/04/2025": [
-            "pharmacy_carretera_andalucia_89"
-        ], 
-        "13/04/2025": [
-            "pharmacy_hipermercado_e_leclerc"
-        ], 
-        "15/04/2025": [
-            "pharmacy_moreras_111"
-        ], 
-        "16/04/2025": [
-            "pharmacy_principe_de_la_paz_24"
-        ], 
-        "17/04/2025": [
-            "pharmacy_plaza_de_toros_63"
-        ], 
-        "19/04/2025": [
+        "05/05/2025": [
             "pharmacy_gobernador_87"
-        ], 
-        "20/04/2025": [
-            "pharmacy_san_antonio_86"
         ], 
         "22/04/2025": [
             "pharmacy_moreras_2"
@@ -71,5 +35,5 @@
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1745133388.1526542
+    "updated": 1745219870.1271193
 }
