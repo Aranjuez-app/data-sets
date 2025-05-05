@@ -3,6 +3,12 @@
         "01/05/2025": [
             "pharmacy_carretera_andalucia_89"
         ], 
+        "01/06/2025": [
+            "pharmacy_foso_19"
+        ], 
+        "02/06/2025": [
+            "pharmacy_real_25"
+        ], 
         "03/05/2025": [
             "pharmacy_san_antonio_86"
         ], 
@@ -12,28 +18,64 @@
         "05/05/2025": [
             "pharmacy_gobernador_87"
         ], 
-        "22/04/2025": [
-            "pharmacy_moreras_2"
+        "06/05/2025": [
+            "pharmacy_san_antonio_86"
         ], 
-        "23/04/2025": [
-            "pharmacy_loyola_9"
+        "07/05/2025": [
+            "pharmacy_real_25"
         ], 
-        "24/04/2025": [
+        "08/05/2025": [
+            "pharmacy_real_25"
+        ], 
+        "10/05/2025": [
+            "pharmacy_real_25"
+        ], 
+        "11/05/2025": [
+            "pharmacy_gobernador_87"
+        ], 
+        "13/05/2025": [
+            "pharmacy_moreras_111"
+        ], 
+        "14/05/2025": [
+            "pharmacy_principe_de_la_paz_24"
+        ], 
+        "15/05/2025": [
+            "pharmacy_plaza_de_toros_63"
+        ], 
+        "17/05/2025": [
+            "pharmacy_stuart_78"
+        ], 
+        "18/05/2025": [
+            "pharmacy_san_antonio_86"
+        ], 
+        "20/05/2025": [
             "pharmacy_hipermercado_e_leclerc"
         ], 
-        "26/04/2025": [
-            "pharmacy_gobernador_79"
-        ], 
-        "27/04/2025": [
+        "21/05/2025": [
             "pharmacy_abastos_98"
         ], 
-        "29/04/2025": [
-            "pharmacy_gobernador_79"
+        "22/05/2025": [
+            "pharmacy_carretera_andalucia_89"
         ], 
-        "30/04/2025": [
-            "pharmacy_abastos_98"
+        "24/05/2025": [
+            "pharmacy_gobernador_87"
+        ], 
+        "25/05/2025": [
+            "pharmacy_real_25"
+        ], 
+        "27/05/2025": [
+            "pharmacy_gobernador_87"
+        ], 
+        "28/05/2025": [
+            "pharmacy_san_antonio_86"
+        ], 
+        "29/05/2025": [
+            "pharmacy_real_25"
+        ], 
+        "31/05/2025": [
+            "pharmacy_moreras_111"
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1746342959.7590628
+    "updated": 1746429520.301802
 }
