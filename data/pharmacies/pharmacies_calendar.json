@@ -7,7 +7,7 @@
             "pharmacy_plaza_de_toros_63"
         ], 
         "03/07/2025": [
-            "pharmacy_gobernador_87"
+            "pharmacy_loyola_9"
         ], 
         "05/07/2025": [
             "pharmacy_hipermercado_e_leclerc"
@@ -55,13 +55,13 @@
             "pharmacy_moreras_2"
         ], 
         "26/07/2025": [
-            "pharmacy_gobernador_87"
+            "pharmacy_loyola_9"
         ], 
         "27/07/2025": [
             "pharmacy_carretera_andalucia_89"
         ], 
         "29/07/2025": [
-            "pharmacy_gobernador_87"
+            "pharmacy_loyola_9"
         ], 
         "30/07/2025": [
             "pharmacy_abastos_98"
@@ -71,5 +71,5 @@
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1751527126.5283897
+    "updated": 1751613556.7705555
 }
