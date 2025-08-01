@@ -1,75 +1,72 @@
 {
     "calendar": {
-        "01/07/2025": [
-            "pharmacy_abastos_188"
+        "02/08/2025": [
+            "pharmacy_gobernador_87"
         ], 
-        "02/07/2025": [
-            "pharmacy_plaza_de_toros_63"
-        ], 
-        "03/07/2025": [
-            "pharmacy_loyola_9"
-        ], 
-        "05/07/2025": [
-            "pharmacy_hipermercado_e_leclerc"
-        ], 
-        "06/07/2025": [
-            "pharmacy_moreras_2"
-        ], 
-        "08/07/2025": [
-            "pharmacy_hipermercado_e_leclerc"
-        ], 
-        "09/07/2025": [
+        "03/08/2025": [
             "pharmacy_gobernador_79"
         ], 
-        "10/07/2025": [
-            "pharmacy_san_antonio_86"
+        "05/08/2025": [
+            "pharmacy_gobernador_87"
         ], 
-        "12/07/2025": [
-            "pharmacy_plaza_de_toros_63"
+        "06/08/2025": [
+            "pharmacy_gobernador_79"
         ], 
-        "13/07/2025": [
-            "pharmacy_loyola_9"
-        ], 
-        "15/07/2025": [
+        "07/08/2025": [
             "pharmacy_real_25"
         ], 
-        "16/07/2025": [
-            "pharmacy_real_25"
+        "09/08/2025": [
+            "pharmacy_abastos_98"
         ], 
-        "17/07/2025": [
-            "pharmacy_foso_19"
+        "10/08/2025": [
+            "pharmacy_stuart_78"
         ], 
-        "19/07/2025": [
-            "pharmacy_moreras_2"
+        "12/08/2025": [
+            "pharmacy_abastos_188"
         ], 
-        "20/07/2025": [
-            "pharmacy_hipermercado_e_leclerc"
+        "13/08/2025": [
+            "pharmacy_moreras_111"
         ], 
-        "22/07/2025": [
+        "14/08/2025": [
             "pharmacy_principe_de_la_paz_24"
         ], 
-        "23/07/2025": [
-            "pharmacy_plaza_de_toros_63"
-        ], 
-        "24/07/2025": [
-            "pharmacy_moreras_2"
-        ], 
-        "26/07/2025": [
-            "pharmacy_loyola_9"
-        ], 
-        "27/07/2025": [
+        "16/08/2025": [
             "pharmacy_carretera_andalucia_89"
         ], 
-        "29/07/2025": [
+        "17/08/2025": [
+            "pharmacy_san_antonio_86"
+        ], 
+        "19/08/2025": [
+            "pharmacy_moreras_2"
+        ], 
+        "20/08/2025": [
             "pharmacy_loyola_9"
         ], 
-        "30/07/2025": [
-            "pharmacy_abastos_98"
+        "21/08/2025": [
+            "pharmacy_hipermercado_e_leclerc"
+        ], 
+        "23/08/2025": [
+            "pharmacy_gobernador_79"
+        ], 
+        "24/08/2025": [
+            "pharmacy_real_25"
+        ], 
+        "26/08/2025": [
+            "pharmacy_gobernador_79"
+        ], 
+        "27/08/2025": [
+            "pharmacy_stuart_78"
+        ], 
+        "28/08/2025": [
+            "pharmacy_gobernador_87"
+        ], 
+        "30/08/2025": [
+            "pharmacy_gobernador_79"
         ], 
         "31/07/2025": [
             "pharmacy_carretera_andalucia_89"
         ]
     }, 
     "source": "https://www.aranjuez.es/farmacias-guardia/", 
-    "updated": 1753946594.1322708
+    "updated": 1754033101.1014204
 }
